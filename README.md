@@ -1,4 +1,4 @@
-### ACHTUNG: Diese Version wird nicht mehr weiter entwicklet ###
+### ACHTUNG: Diese Version wird nicht mehr weiterentwickelt ###
 
 Guckst Du hier: https://github.com/olien/rex5_focuspoint
 
