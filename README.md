@@ -1,3 +1,10 @@
+### ACHTUNG: Diese Version wird nicht mehr weiter entwicklet ###
+
+Guckst Du hier: https://github.com/olien/rex5_focuspoint
+
+___
+
+
 focuspoint
 ==========
 
@@ -10,3 +17,5 @@ Frontend wird nicht berücksichtigt!
 
 ---
 Danke an Thomas,Daniel und Jan
+
+
